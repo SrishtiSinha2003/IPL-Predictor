@@ -62,6 +62,7 @@ streamlit run webapp.py
 ```
 
 ### 📸 Preview
+![Image](https://github.com/user-attachments/assets/8edcdb43-1163-40a6-9133-984c6692cea5)
 ### 📄 License
 This project is licensed under the MIT License.
 ### 🌟 Show Some Love
