@@ -1,7 +1,6 @@
 # 🏏 IPL Win Predictor
 
 ![Streamlit App](https://img.shields.io/badge/Made%20With-Streamlit-blue?style=for-the-badge&logo=streamlit)
-![License](https://img.shields.io/github/license/SrishtiSinha2003/IPL-Predictor?style=for-the-badge)
 
 This is a **Machine Learning-powered IPL Win Predictor** web app built with Python and Streamlit.
 
