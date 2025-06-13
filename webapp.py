@@ -17,9 +17,14 @@ else:
 
 # Teams & Cities
 teams = [
-    'Sunrisers Hyderabad', 'Mumbai Indians', 'Royal Challengers Bangalore',
-    'Kolkata Knight Riders', 'Kings XI Punjab', 'Chennai Super Kings',
-    'Rajasthan Royals', 'Delhi Capitals'
+    'Sunrisers Hyderabad',
+    'Mumbai Indians',
+    'Royal Challengers Bangalore',
+    'Kolkata Knight Riders',
+    'Kings XI Punjab',
+    'Chennai Super Kings',
+    'Rajasthan Royals',
+    'Delhi Capitals'
 ]
 
 cities = [
