@@ -60,3 +60,9 @@ pip install -r requirements.txt
 ```bash
 streamlit run webapp.py
 ```
+
+### 📸 Preview
+### 📄 License
+This project is licensed under the MIT License.
+### 🌟 Show Some Love
+If you like the project, give it a ⭐ on GitHub and share it with your friends!
